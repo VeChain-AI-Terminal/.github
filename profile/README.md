@@ -26,6 +26,8 @@ Model Context Protocol server that powers AI-blockchain interactions. Features 9
 - VeBetter DAO integration
 - Blockchain analytics
 
+![VeChain AI Architecture Banner](https://raw.githubusercontent.com/VeChain-AI-Terminal/vechain-terminal-mcp/main/src/docs/images/vechain-terminal-arc.png)
+
 ### vechain-terminal-frontend
 Web interface for VeChain AI Terminal providing visual transaction management and blockchain interaction tools.
 *Coming soon*
