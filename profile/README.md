@@ -15,6 +15,11 @@ VeChain AI Terminal is an innovative project that enables AI assistants to inter
 - **Comprehensive VeChain Integration**: Token transfers, DEX trading, NFT operations, cross-chain bridges, and VeBetter DAO
 - **Production Ready**: Built with real contract ABIs, secure wallet management, and robust error handling
 
+
+## Tools
+
+![VeChain AI Tools Banner](https://raw.githubusercontent.com/VeChain-AI-Terminal/vechain-terminal-mcp/main/src/docs/images/vechain-terminal-tools.png)
+
 ## Projects
 
 ### [vechain-terminal-mcp](https://github.com/VeChain-AI-Terminal/vechain-terminal-mcp)
